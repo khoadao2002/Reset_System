@@ -1,0 +1,8 @@
+../Core/Src/main.c:15:6:Init_HSI_Clock	16	static
+../Core/Src/main.c:26:6:Init_Led	24	static
+../Core/Src/main.c:35:6:Control_Led	24	static
+../Core/Src/main.c:47:6:Init_Timer	32	static
+../Core/Src/main.c:62:6:Timer_Handler_Custom	16	static
+../Core/Src/main.c:68:6:delay_ms	16	static
+../Core/Src/main.c:76:6:Init_IWDG	24	static
+../Core/Src/main.c:89:5:main	24	static,ignoring_inline_asm

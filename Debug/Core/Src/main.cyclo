@@ -1,0 +1,8 @@
+main.c:15:6:Init_HSI_Clock	2
+main.c:26:6:Init_Led	1
+main.c:35:6:Control_Led	2
+main.c:47:6:Init_Timer	1
+main.c:62:6:Timer_Handler_Custom	1
+main.c:68:6:delay_ms	2
+main.c:76:6:Init_IWDG	1
+main.c:89:5:main	2
